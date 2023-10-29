@@ -1,0 +1,13 @@
+pkgbase = battery-monitor
+	pkgver = 0.1
+	pkgrel = 1
+	url = https://github.com/xsy420/battery-monitor
+	arch = x86_64
+	groups = xsy420
+	makedepends = gcc
+	makedepends = make
+	depends = zenity
+	source = https://github.com/xsy420/battery-monitor/archive/refs/tags/v0.1.tar.gz
+	sha256sums = 0960368cf4153b79fb2c221395079ee915f92c4cc4b81b0c38263bf1d8fc6841
+
+pkgname = battery-monitor
